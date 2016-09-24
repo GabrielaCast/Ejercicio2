@@ -1,10 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<link rel="stylesheet" href="css/bootstrap.min.css">
-		<title>
-			Ejercicio 2 - Clase 5
-		</title>
+		
 	</head>
 	<body>
 	<!--Codigo-->
